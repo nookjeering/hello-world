@@ -1,10 +1,11 @@
 # hello-world
 Zum Testen
 
-Dies ist der erste Testtext
+Dies ist der erste Testtext!
 Köln
-erftstadt
-münchen
+Erftstadt
+Flensburg
+Neubiberg
 Fleckeby
-OWschlag
+Owschlag
 Neumünster
